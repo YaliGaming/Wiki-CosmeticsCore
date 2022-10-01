@@ -6,6 +6,7 @@
 * [תנאי השירות](terms-of-service.md)
 * [❓ שאלות נפוצות](frequently-asked-questions.md)
 * [🇬🇧 🇬🇧 תרגומים](translations.md)
+* [עורך קבצים](files-editor.md)
 * [🖥 פקודות](commands.md)
 * [👌 הרשאות](permissions.md)
 * [הוספת תוכן](adding-content/README.md)
