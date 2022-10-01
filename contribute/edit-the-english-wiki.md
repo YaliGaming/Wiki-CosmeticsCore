@@ -14,7 +14,7 @@
 
 בחר קובץ שברצונך לערוך ולחץ על הלחצן **עט**
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ערוך את הקובץ ולאחר מכן הקש <mark style="color:green;">**בצע שינויים**</mark>
 
