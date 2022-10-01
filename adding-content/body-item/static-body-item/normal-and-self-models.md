@@ -77,6 +77,16 @@
 
 {% embed url="https://youtu.be/dmQI35Xd4Js" %}
 
+### שיטה חדשה נסיונית
+
+כעת אתה יכול להשתמש בשיטה חדשה הכוללת הרחבה Blockbench כדי להפוך את הדברים לקלים יותר ואוטומטיים.
+
+קרא כאן:
+
+{% content-ref url="../../../files-editor.md" %}
+[files-editor.md](../../../files-editor.md)
+{% endcontent-ref %}
+
 ## הבדלים
 
 ### דגם רגיל
